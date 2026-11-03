@@ -34,7 +34,7 @@ Após criar ou alterar `.env`, reinicie o servidor de desenvolvimento.
 - [x] Em viewport de 375 px, a tela funciona sem rolagem horizontal.
 - [x] Sem erros JavaScript no fluxo normal; editar/excluir o prato local provoca o 404 esperado do DummyJSON.
 - [x] `npm run build` e `npm run lint` terminaram sem erro.
-- [ ] ZIP sem `node_modules`; README preenchido com os dois nomes e link do GitHub.
+- [x] ZIP sem `node_modules`; README preenchido com os dois nomes e link do GitHub.
 
 ## Nota sobre a API
 
@@ -51,4 +51,4 @@ O DummyJSON simula as mutações: criação, edição e exclusão não são pers
 - Integrante 2: **Vanessa Barbosa**.
 - Link do repositório no GitHub: https://github.com/Leonardo-Paulucci/TrabalhoP2-Frontend
 
-Publiquem o projeto em um repositório GitHub e façam commits identificados pelos dois integrantes da dupla ao longo do trabalho. Depois, atualizem os nomes e o link acima, gerem o ZIP sem `node_modules` e enviem ao AVA.
+O repositório GitHub deve conter commits reais identificados pelos dois integrantes da dupla. O projeto local já foi integrado ao histórico remoto; falta que Vanessa faça um commit próprio no GitHub para registrar a participação dos dois.
