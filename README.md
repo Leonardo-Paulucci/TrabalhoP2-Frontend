@@ -52,3 +52,5 @@ O DummyJSON simula as mutações: criação, edição e exclusão não são pers
 - Link do repositório no GitHub: https://github.com/Leonardo-Paulucci/TrabalhoP2-Frontend
 
 O repositório GitHub deve conter commits reais identificados pelos dois integrantes da dupla. O projeto local já foi integrado ao histórico remoto; falta que Vanessa faça um commit próprio no GitHub para registrar a participação dos dois.
+
+Aplicativo compativel com web e mobile.
